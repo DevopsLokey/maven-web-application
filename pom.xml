@@ -95,13 +95,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>Snapchat Releases Nexus Repository</name>
 	      <url>http://10.0.2.15:8081/repository/snapchat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>Snapchat Snapshot Nexus Repository </name>
 	      <url>http://10.0.2.15:8081/repository/snapchat-snapshot//</url>
 	    </snapshotRepository>
