@@ -95,13 +95,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>Snapshat Releases Nexus Repository</name>
 	      <url>http://10.0.2.15:8081/repository/snapshat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>Nexus</id>
 	      <name>Snapshat Snapshot Nexus Repository </name>
 	      <url>http://10.0.2.15:8081/repository/snapshat-snapshot/</url>
 	    </snapshotRepository>
