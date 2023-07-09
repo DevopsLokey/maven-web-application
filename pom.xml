@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>Nexus</id>
-	      <name>Snapshat Releases Nexus Repository</name>
-	      <url>http://10.0.2.15:8081/repository/snapshat-release/</url>
+	      <name>Snapchat Releases Nexus Repository</name>
+	      <url>http://10.0.2.15:8081/repository/snapchat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>Nexus</id>
-	      <name>Snapshat Snapshot Nexus Repository </name>
-	      <url>http://10.0.2.15:8081/repository/snapshat-snapshot/</url>
+	      <name>Snapchat Snapshot Nexus Repository </name>
+	      <url>http://10.0.2.15:8081/repository/snapchat-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
